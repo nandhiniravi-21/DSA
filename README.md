@@ -49,6 +49,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [2007-find-original-array-from-doubled-array](https://github.com/nandhiniravi-21/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/nandhiniravi-21/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/nandhiniravi-21/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2250-count-number-of-rectangles-containing-each-point](https://github.com/nandhiniravi-21/DSA/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,6 +106,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [1630-arithmetic-subarrays](https://github.com/nandhiniravi-21/DSA/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nandhiniravi-21/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2007-find-original-array-from-doubled-array](https://github.com/nandhiniravi-21/DSA/tree/master/2007-find-original-array-from-doubled-array) |
+| [2250-count-number-of-rectangles-containing-each-point](https://github.com/nandhiniravi-21/DSA/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 ## Sorting
 |  |
 | ------- |
@@ -122,6 +124,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [2007-find-original-array-from-doubled-array](https://github.com/nandhiniravi-21/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/nandhiniravi-21/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/nandhiniravi-21/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2250-count-number-of-rectangles-containing-each-point](https://github.com/nandhiniravi-21/DSA/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 ## Graph Theory
 |  |
 | ------- |
@@ -140,6 +143,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | ------- |
 | [0887-super-egg-drop](https://github.com/nandhiniravi-21/DSA/tree/master/0887-super-egg-drop) |
 | [1027-longest-arithmetic-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/1027-longest-arithmetic-subsequence) |
+| [2250-count-number-of-rectangles-containing-each-point](https://github.com/nandhiniravi-21/DSA/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -168,4 +172,8 @@ This repository contains a curated collection of Data Structures and Algorithms 
 |  |
 | ------- |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/nandhiniravi-21/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2250-count-number-of-rectangles-containing-each-point](https://github.com/nandhiniravi-21/DSA/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 <!---LeetCode Topics End-->
