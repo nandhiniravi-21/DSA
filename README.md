@@ -60,6 +60,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [2740-find-the-value-of-the-partition](https://github.com/nandhiniravi-21/DSA/tree/master/2740-find-the-value-of-the-partition) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/nandhiniravi-21/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3035-maximum-palindromes-after-operations](https://github.com/nandhiniravi-21/DSA/tree/master/3035-maximum-palindromes-after-operations) |
+| [3267-count-almost-equal-pairs-ii](https://github.com/nandhiniravi-21/DSA/tree/master/3267-count-almost-equal-pairs-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -121,6 +122,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [2465-number-of-distinct-averages](https://github.com/nandhiniravi-21/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/nandhiniravi-21/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3035-maximum-palindromes-after-operations](https://github.com/nandhiniravi-21/DSA/tree/master/3035-maximum-palindromes-after-operations) |
+| [3267-count-almost-equal-pairs-ii](https://github.com/nandhiniravi-21/DSA/tree/master/3267-count-almost-equal-pairs-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -147,6 +149,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [2785-sort-vowels-in-a-string](https://github.com/nandhiniravi-21/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/nandhiniravi-21/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3035-maximum-palindromes-after-operations](https://github.com/nandhiniravi-21/DSA/tree/master/3035-maximum-palindromes-after-operations) |
+| [3267-count-almost-equal-pairs-ii](https://github.com/nandhiniravi-21/DSA/tree/master/3267-count-almost-equal-pairs-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -199,6 +202,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | ------- |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/nandhiniravi-21/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3035-maximum-palindromes-after-operations](https://github.com/nandhiniravi-21/DSA/tree/master/3035-maximum-palindromes-after-operations) |
+| [3267-count-almost-equal-pairs-ii](https://github.com/nandhiniravi-21/DSA/tree/master/3267-count-almost-equal-pairs-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -214,4 +218,8 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | ------- |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/nandhiniravi-21/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2679-sum-in-a-matrix](https://github.com/nandhiniravi-21/DSA/tree/master/2679-sum-in-a-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [3267-count-almost-equal-pairs-ii](https://github.com/nandhiniravi-21/DSA/tree/master/3267-count-almost-equal-pairs-ii) |
 <!---LeetCode Topics End-->
