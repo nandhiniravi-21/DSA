@@ -62,6 +62,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [3035-maximum-palindromes-after-operations](https://github.com/nandhiniravi-21/DSA/tree/master/3035-maximum-palindromes-after-operations) |
 | [3267-count-almost-equal-pairs-ii](https://github.com/nandhiniravi-21/DSA/tree/master/3267-count-almost-equal-pairs-ii) |
 | [3446-sort-matrix-by-diagonals](https://github.com/nandhiniravi-21/DSA/tree/master/3446-sort-matrix-by-diagonals) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/nandhiniravi-21/DSA/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,6 +110,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0773-sliding-puzzle](https://github.com/nandhiniravi-21/DSA/tree/master/0773-sliding-puzzle) |
 | [2679-sum-in-a-matrix](https://github.com/nandhiniravi-21/DSA/tree/master/2679-sum-in-a-matrix) |
 | [3446-sort-matrix-by-diagonals](https://github.com/nandhiniravi-21/DSA/tree/master/3446-sort-matrix-by-diagonals) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/nandhiniravi-21/DSA/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,6 +155,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [3035-maximum-palindromes-after-operations](https://github.com/nandhiniravi-21/DSA/tree/master/3035-maximum-palindromes-after-operations) |
 | [3267-count-almost-equal-pairs-ii](https://github.com/nandhiniravi-21/DSA/tree/master/3267-count-almost-equal-pairs-ii) |
 | [3446-sort-matrix-by-diagonals](https://github.com/nandhiniravi-21/DSA/tree/master/3446-sort-matrix-by-diagonals) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/nandhiniravi-21/DSA/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Graph Theory
 |  |
 | ------- |
@@ -196,6 +199,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [2333-minimum-sum-of-squared-difference](https://github.com/nandhiniravi-21/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/nandhiniravi-21/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3035-maximum-palindromes-after-operations](https://github.com/nandhiniravi-21/DSA/tree/master/3035-maximum-palindromes-after-operations) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/nandhiniravi-21/DSA/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -216,6 +220,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [2333-minimum-sum-of-squared-difference](https://github.com/nandhiniravi-21/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/nandhiniravi-21/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2679-sum-in-a-matrix](https://github.com/nandhiniravi-21/DSA/tree/master/2679-sum-in-a-matrix) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/nandhiniravi-21/DSA/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Simulation
 |  |
 | ------- |
