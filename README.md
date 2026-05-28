@@ -41,6 +41,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0823-binary-trees-with-factors](https://github.com/nandhiniravi-21/DSA/tree/master/0823-binary-trees-with-factors) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/nandhiniravi-21/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/0873-length-of-longest-fibonacci-subsequence) |
+| [0887-super-egg-drop](https://github.com/nandhiniravi-21/DSA/tree/master/0887-super-egg-drop) |
 ## Backtracking
 |  |
 | ------- |
@@ -82,4 +83,12 @@ This repository contains a curated collection of Data Structures and Algorithms 
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/nandhiniravi-21/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Math
+|  |
+| ------- |
+| [0887-super-egg-drop](https://github.com/nandhiniravi-21/DSA/tree/master/0887-super-egg-drop) |
+## Binary Search
+|  |
+| ------- |
+| [0887-super-egg-drop](https://github.com/nandhiniravi-21/DSA/tree/master/0887-super-egg-drop) |
 <!---LeetCode Topics End-->
