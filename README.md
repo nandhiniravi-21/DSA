@@ -26,8 +26,22 @@ This repository contains a curated collection of Data Structures and Algorithms 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/nandhiniravi-21/DSA/tree/master/0031-next-permutation) |
+| [0526-beautiful-arrangement](https://github.com/nandhiniravi-21/DSA/tree/master/0526-beautiful-arrangement) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/nandhiniravi-21/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0526-beautiful-arrangement](https://github.com/nandhiniravi-21/DSA/tree/master/0526-beautiful-arrangement) |
+## Backtracking
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/nandhiniravi-21/DSA/tree/master/0526-beautiful-arrangement) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/nandhiniravi-21/DSA/tree/master/0526-beautiful-arrangement) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/nandhiniravi-21/DSA/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
