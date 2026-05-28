@@ -22,6 +22,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0899-orderly-queue](https://github.com/nandhiniravi-21/DSA/tree/master/0899-orderly-queue) |
 | [1143-longest-common-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/1143-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nandhiniravi-21/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2785-sort-vowels-in-a-string](https://github.com/nandhiniravi-21/DSA/tree/master/2785-sort-vowels-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -139,6 +140,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/nandhiniravi-21/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2679-sum-in-a-matrix](https://github.com/nandhiniravi-21/DSA/tree/master/2679-sum-in-a-matrix) |
 | [2740-find-the-value-of-the-partition](https://github.com/nandhiniravi-21/DSA/tree/master/2740-find-the-value-of-the-partition) |
+| [2785-sort-vowels-in-a-string](https://github.com/nandhiniravi-21/DSA/tree/master/2785-sort-vowels-in-a-string) |
 ## Graph Theory
 |  |
 | ------- |
