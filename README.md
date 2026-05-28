@@ -29,6 +29,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0526-beautiful-arrangement](https://github.com/nandhiniravi-21/DSA/tree/master/0526-beautiful-arrangement) |
 | [0773-sliding-puzzle](https://github.com/nandhiniravi-21/DSA/tree/master/0773-sliding-puzzle) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/nandhiniravi-21/DSA/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
+| [0823-binary-trees-with-factors](https://github.com/nandhiniravi-21/DSA/tree/master/0823-binary-trees-with-factors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -36,6 +37,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0526-beautiful-arrangement](https://github.com/nandhiniravi-21/DSA/tree/master/0526-beautiful-arrangement) |
 | [0773-sliding-puzzle](https://github.com/nandhiniravi-21/DSA/tree/master/0773-sliding-puzzle) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/nandhiniravi-21/DSA/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
+| [0823-binary-trees-with-factors](https://github.com/nandhiniravi-21/DSA/tree/master/0823-binary-trees-with-factors) |
 ## Backtracking
 |  |
 | ------- |
@@ -61,4 +63,12 @@ This repository contains a curated collection of Data Structures and Algorithms 
 |  |
 | ------- |
 | [0773-sliding-puzzle](https://github.com/nandhiniravi-21/DSA/tree/master/0773-sliding-puzzle) |
+## Hash Table
+|  |
+| ------- |
+| [0823-binary-trees-with-factors](https://github.com/nandhiniravi-21/DSA/tree/master/0823-binary-trees-with-factors) |
+## Sorting
+|  |
+| ------- |
+| [0823-binary-trees-with-factors](https://github.com/nandhiniravi-21/DSA/tree/master/0823-binary-trees-with-factors) |
 <!---LeetCode Topics End-->
