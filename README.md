@@ -55,6 +55,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [2465-number-of-distinct-averages](https://github.com/nandhiniravi-21/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/nandhiniravi-21/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2679-sum-in-a-matrix](https://github.com/nandhiniravi-21/DSA/tree/master/2679-sum-in-a-matrix) |
+| [2740-find-the-value-of-the-partition](https://github.com/nandhiniravi-21/DSA/tree/master/2740-find-the-value-of-the-partition) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -137,6 +138,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [2465-number-of-distinct-averages](https://github.com/nandhiniravi-21/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/nandhiniravi-21/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2679-sum-in-a-matrix](https://github.com/nandhiniravi-21/DSA/tree/master/2679-sum-in-a-matrix) |
+| [2740-find-the-value-of-the-partition](https://github.com/nandhiniravi-21/DSA/tree/master/2740-find-the-value-of-the-partition) |
 ## Graph Theory
 |  |
 | ------- |
