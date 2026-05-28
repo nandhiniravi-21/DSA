@@ -22,6 +22,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nandhiniravi-21/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nandhiniravi-21/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0975-odd-even-jump](https://github.com/nandhiniravi-21/DSA/tree/master/0975-odd-even-jump) |
 ## Array
 |  |
 | ------- |
@@ -31,6 +32,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/nandhiniravi-21/DSA/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0823-binary-trees-with-factors](https://github.com/nandhiniravi-21/DSA/tree/master/0823-binary-trees-with-factors) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/0873-length-of-longest-fibonacci-subsequence) |
+| [0975-odd-even-jump](https://github.com/nandhiniravi-21/DSA/tree/master/0975-odd-even-jump) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,6 +44,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/nandhiniravi-21/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0887-super-egg-drop](https://github.com/nandhiniravi-21/DSA/tree/master/0887-super-egg-drop) |
+| [0975-odd-even-jump](https://github.com/nandhiniravi-21/DSA/tree/master/0975-odd-even-jump) |
 ## Backtracking
 |  |
 | ------- |
@@ -79,6 +82,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 |  |
 | ------- |
 | [0823-binary-trees-with-factors](https://github.com/nandhiniravi-21/DSA/tree/master/0823-binary-trees-with-factors) |
+| [0975-odd-even-jump](https://github.com/nandhiniravi-21/DSA/tree/master/0975-odd-even-jump) |
 ## Graph Theory
 |  |
 | ------- |
@@ -91,4 +95,12 @@ This repository contains a curated collection of Data Structures and Algorithms 
 |  |
 | ------- |
 | [0887-super-egg-drop](https://github.com/nandhiniravi-21/DSA/tree/master/0887-super-egg-drop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0975-odd-even-jump](https://github.com/nandhiniravi-21/DSA/tree/master/0975-odd-even-jump) |
+## Ordered Set
+|  |
+| ------- |
+| [0975-odd-even-jump](https://github.com/nandhiniravi-21/DSA/tree/master/0975-odd-even-jump) |
 <!---LeetCode Topics End-->
