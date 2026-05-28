@@ -20,6 +20,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0720-longest-word-in-dictionary](https://github.com/nandhiniravi-21/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0899-orderly-queue](https://github.com/nandhiniravi-21/DSA/tree/master/0899-orderly-queue) |
 | [1143-longest-common-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/1143-longest-common-subsequence) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nandhiniravi-21/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -94,6 +95,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0823-binary-trees-with-factors](https://github.com/nandhiniravi-21/DSA/tree/master/0823-binary-trees-with-factors) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [1027-longest-arithmetic-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/1027-longest-arithmetic-subsequence) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nandhiniravi-21/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -104,6 +106,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0975-odd-even-jump](https://github.com/nandhiniravi-21/DSA/tree/master/0975-odd-even-jump) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nandhiniravi-21/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1363-largest-multiple-of-three](https://github.com/nandhiniravi-21/DSA/tree/master/1363-largest-multiple-of-three) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nandhiniravi-21/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Graph Theory
 |  |
 | ------- |
@@ -139,4 +142,5 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nandhiniravi-21/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1363-largest-multiple-of-three](https://github.com/nandhiniravi-21/DSA/tree/master/1363-largest-multiple-of-three) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nandhiniravi-21/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->
