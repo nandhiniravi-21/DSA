@@ -54,6 +54,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [2333-minimum-sum-of-squared-difference](https://github.com/nandhiniravi-21/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2465-number-of-distinct-averages](https://github.com/nandhiniravi-21/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/nandhiniravi-21/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2679-sum-in-a-matrix](https://github.com/nandhiniravi-21/DSA/tree/master/2679-sum-in-a-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +100,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 |  |
 | ------- |
 | [0773-sliding-puzzle](https://github.com/nandhiniravi-21/DSA/tree/master/0773-sliding-puzzle) |
+| [2679-sum-in-a-matrix](https://github.com/nandhiniravi-21/DSA/tree/master/2679-sum-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +136,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [2333-minimum-sum-of-squared-difference](https://github.com/nandhiniravi-21/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2465-number-of-distinct-averages](https://github.com/nandhiniravi-21/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/nandhiniravi-21/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2679-sum-in-a-matrix](https://github.com/nandhiniravi-21/DSA/tree/master/2679-sum-in-a-matrix) |
 ## Graph Theory
 |  |
 | ------- |
@@ -192,8 +195,10 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nandhiniravi-21/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/nandhiniravi-21/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2679-sum-in-a-matrix](https://github.com/nandhiniravi-21/DSA/tree/master/2679-sum-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/nandhiniravi-21/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2679-sum-in-a-matrix](https://github.com/nandhiniravi-21/DSA/tree/master/2679-sum-in-a-matrix) |
 <!---LeetCode Topics End-->
