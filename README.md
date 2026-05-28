@@ -23,6 +23,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [1143-longest-common-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/1143-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nandhiniravi-21/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2785-sort-vowels-in-a-string](https://github.com/nandhiniravi-21/DSA/tree/master/2785-sort-vowels-in-a-string) |
+| [3035-maximum-palindromes-after-operations](https://github.com/nandhiniravi-21/DSA/tree/master/3035-maximum-palindromes-after-operations) |
 ## Stack
 |  |
 | ------- |
@@ -58,6 +59,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [2679-sum-in-a-matrix](https://github.com/nandhiniravi-21/DSA/tree/master/2679-sum-in-a-matrix) |
 | [2740-find-the-value-of-the-partition](https://github.com/nandhiniravi-21/DSA/tree/master/2740-find-the-value-of-the-partition) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/nandhiniravi-21/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3035-maximum-palindromes-after-operations](https://github.com/nandhiniravi-21/DSA/tree/master/3035-maximum-palindromes-after-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,6 +120,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/nandhiniravi-21/DSA/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2465-number-of-distinct-averages](https://github.com/nandhiniravi-21/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/nandhiniravi-21/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [3035-maximum-palindromes-after-operations](https://github.com/nandhiniravi-21/DSA/tree/master/3035-maximum-palindromes-after-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -143,6 +146,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [2740-find-the-value-of-the-partition](https://github.com/nandhiniravi-21/DSA/tree/master/2740-find-the-value-of-the-partition) |
 | [2785-sort-vowels-in-a-string](https://github.com/nandhiniravi-21/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/nandhiniravi-21/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3035-maximum-palindromes-after-operations](https://github.com/nandhiniravi-21/DSA/tree/master/3035-maximum-palindromes-after-operations) |
 ## Graph Theory
 |  |
 | ------- |
@@ -185,6 +189,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [2007-find-original-array-from-doubled-array](https://github.com/nandhiniravi-21/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nandhiniravi-21/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/nandhiniravi-21/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3035-maximum-palindromes-after-operations](https://github.com/nandhiniravi-21/DSA/tree/master/3035-maximum-palindromes-after-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -193,6 +198,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 |  |
 | ------- |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/nandhiniravi-21/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [3035-maximum-palindromes-after-operations](https://github.com/nandhiniravi-21/DSA/tree/master/3035-maximum-palindromes-after-operations) |
 ## Binary Indexed Tree
 |  |
 | ------- |
