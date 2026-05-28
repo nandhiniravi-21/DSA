@@ -18,6 +18,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0020-valid-parentheses](https://github.com/nandhiniravi-21/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nandhiniravi-21/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0720-longest-word-in-dictionary](https://github.com/nandhiniravi-21/DSA/tree/master/0720-longest-word-in-dictionary) |
+| [0899-orderly-queue](https://github.com/nandhiniravi-21/DSA/tree/master/0899-orderly-queue) |
 | [1143-longest-common-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
@@ -95,6 +96,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0628-maximum-product-of-three-numbers](https://github.com/nandhiniravi-21/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/nandhiniravi-21/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0823-binary-trees-with-factors](https://github.com/nandhiniravi-21/DSA/tree/master/0823-binary-trees-with-factors) |
+| [0899-orderly-queue](https://github.com/nandhiniravi-21/DSA/tree/master/0899-orderly-queue) |
 | [0975-odd-even-jump](https://github.com/nandhiniravi-21/DSA/tree/master/0975-odd-even-jump) |
 ## Graph Theory
 |  |
@@ -106,6 +108,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0066-plus-one](https://github.com/nandhiniravi-21/DSA/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nandhiniravi-21/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0887-super-egg-drop](https://github.com/nandhiniravi-21/DSA/tree/master/0887-super-egg-drop) |
+| [0899-orderly-queue](https://github.com/nandhiniravi-21/DSA/tree/master/0899-orderly-queue) |
 | [1012-numbers-with-repeated-digits](https://github.com/nandhiniravi-21/DSA/tree/master/1012-numbers-with-repeated-digits) |
 ## Binary Search
 |  |
