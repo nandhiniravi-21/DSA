@@ -17,6 +17,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nandhiniravi-21/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nandhiniravi-21/DSA/tree/master/0032-longest-valid-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -48,6 +49,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0975-odd-even-jump](https://github.com/nandhiniravi-21/DSA/tree/master/0975-odd-even-jump) |
 | [1012-numbers-with-repeated-digits](https://github.com/nandhiniravi-21/DSA/tree/master/1012-numbers-with-repeated-digits) |
 | [1027-longest-arithmetic-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/1027-longest-arithmetic-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
