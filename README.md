@@ -43,6 +43,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [1027-longest-arithmetic-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/1027-longest-arithmetic-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nandhiniravi-21/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1363-largest-multiple-of-three](https://github.com/nandhiniravi-21/DSA/tree/master/1363-largest-multiple-of-three) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/nandhiniravi-21/DSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,6 +108,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [1262-greatest-sum-divisible-by-three](https://github.com/nandhiniravi-21/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1363-largest-multiple-of-three](https://github.com/nandhiniravi-21/DSA/tree/master/1363-largest-multiple-of-three) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nandhiniravi-21/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/nandhiniravi-21/DSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 ## Graph Theory
 |  |
 | ------- |
@@ -143,4 +145,9 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [1262-greatest-sum-divisible-by-three](https://github.com/nandhiniravi-21/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1363-largest-multiple-of-three](https://github.com/nandhiniravi-21/DSA/tree/master/1363-largest-multiple-of-three) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nandhiniravi-21/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/nandhiniravi-21/DSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+## Prefix Sum
+|  |
+| ------- |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/nandhiniravi-21/DSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 <!---LeetCode Topics End-->
