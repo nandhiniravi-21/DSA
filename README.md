@@ -45,6 +45,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0887-super-egg-drop](https://github.com/nandhiniravi-21/DSA/tree/master/0887-super-egg-drop) |
 | [0975-odd-even-jump](https://github.com/nandhiniravi-21/DSA/tree/master/0975-odd-even-jump) |
+| [1012-numbers-with-repeated-digits](https://github.com/nandhiniravi-21/DSA/tree/master/1012-numbers-with-repeated-digits) |
 ## Backtracking
 |  |
 | ------- |
@@ -91,6 +92,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 |  |
 | ------- |
 | [0887-super-egg-drop](https://github.com/nandhiniravi-21/DSA/tree/master/0887-super-egg-drop) |
+| [1012-numbers-with-repeated-digits](https://github.com/nandhiniravi-21/DSA/tree/master/1012-numbers-with-repeated-digits) |
 ## Binary Search
 |  |
 | ------- |
