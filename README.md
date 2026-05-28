@@ -12,6 +12,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nandhiniravi-21/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/nandhiniravi-21/DSA/tree/master/0031-next-permutation) |
+| [2465-number-of-distinct-averages](https://github.com/nandhiniravi-21/DSA/tree/master/2465-number-of-distinct-averages) |
 ## String
 |  |
 | ------- |
@@ -51,6 +52,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/nandhiniravi-21/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/nandhiniravi-21/DSA/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nandhiniravi-21/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2465-number-of-distinct-averages](https://github.com/nandhiniravi-21/DSA/tree/master/2465-number-of-distinct-averages) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +110,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [1636-sort-array-by-increasing-frequency](https://github.com/nandhiniravi-21/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2007-find-original-array-from-doubled-array](https://github.com/nandhiniravi-21/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/nandhiniravi-21/DSA/tree/master/2250-count-number-of-rectangles-containing-each-point) |
+| [2465-number-of-distinct-averages](https://github.com/nandhiniravi-21/DSA/tree/master/2465-number-of-distinct-averages) |
 ## Sorting
 |  |
 | ------- |
@@ -127,6 +130,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/nandhiniravi-21/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/nandhiniravi-21/DSA/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nandhiniravi-21/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2465-number-of-distinct-averages](https://github.com/nandhiniravi-21/DSA/tree/master/2465-number-of-distinct-averages) |
 ## Graph Theory
 |  |
 | ------- |
