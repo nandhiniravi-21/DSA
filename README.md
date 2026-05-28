@@ -47,6 +47,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [1630-arithmetic-subarrays](https://github.com/nandhiniravi-21/DSA/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nandhiniravi-21/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2007-find-original-array-from-doubled-array](https://github.com/nandhiniravi-21/DSA/tree/master/2007-find-original-array-from-doubled-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/nandhiniravi-21/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,6 +119,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [1630-arithmetic-subarrays](https://github.com/nandhiniravi-21/DSA/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nandhiniravi-21/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2007-find-original-array-from-doubled-array](https://github.com/nandhiniravi-21/DSA/tree/master/2007-find-original-array-from-doubled-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/nandhiniravi-21/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Graph Theory
 |  |
 | ------- |
@@ -160,4 +162,8 @@ This repository contains a curated collection of Data Structures and Algorithms 
 |  |
 | ------- |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/nandhiniravi-21/DSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+## Counting
+|  |
+| ------- |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/nandhiniravi-21/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 <!---LeetCode Topics End-->
