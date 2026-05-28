@@ -41,6 +41,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0975-odd-even-jump](https://github.com/nandhiniravi-21/DSA/tree/master/0975-odd-even-jump) |
 | [1027-longest-arithmetic-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/1027-longest-arithmetic-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nandhiniravi-21/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1363-largest-multiple-of-three](https://github.com/nandhiniravi-21/DSA/tree/master/1363-largest-multiple-of-three) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,6 +58,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [1027-longest-arithmetic-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/1027-longest-arithmetic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nandhiniravi-21/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1363-largest-multiple-of-three](https://github.com/nandhiniravi-21/DSA/tree/master/1363-largest-multiple-of-three) |
 ## Backtracking
 |  |
 | ------- |
@@ -101,6 +103,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0899-orderly-queue](https://github.com/nandhiniravi-21/DSA/tree/master/0899-orderly-queue) |
 | [0975-odd-even-jump](https://github.com/nandhiniravi-21/DSA/tree/master/0975-odd-even-jump) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nandhiniravi-21/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1363-largest-multiple-of-three](https://github.com/nandhiniravi-21/DSA/tree/master/1363-largest-multiple-of-three) |
 ## Graph Theory
 |  |
 | ------- |
@@ -113,6 +116,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0887-super-egg-drop](https://github.com/nandhiniravi-21/DSA/tree/master/0887-super-egg-drop) |
 | [0899-orderly-queue](https://github.com/nandhiniravi-21/DSA/tree/master/0899-orderly-queue) |
 | [1012-numbers-with-repeated-digits](https://github.com/nandhiniravi-21/DSA/tree/master/1012-numbers-with-repeated-digits) |
+| [1363-largest-multiple-of-three](https://github.com/nandhiniravi-21/DSA/tree/master/1363-largest-multiple-of-three) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,4 +138,5 @@ This repository contains a curated collection of Data Structures and Algorithms 
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nandhiniravi-21/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1363-largest-multiple-of-three](https://github.com/nandhiniravi-21/DSA/tree/master/1363-largest-multiple-of-three) |
 <!---LeetCode Topics End-->
