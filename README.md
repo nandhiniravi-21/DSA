@@ -11,6 +11,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nandhiniravi-21/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/nandhiniravi-21/DSA/tree/master/0031-next-permutation) |
 ## String
 |  |
 | ------- |
@@ -19,4 +20,8 @@ This repository contains a curated collection of Data Structures and Algorithms 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nandhiniravi-21/DSA/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/nandhiniravi-21/DSA/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
