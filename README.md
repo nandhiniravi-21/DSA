@@ -28,6 +28,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/nandhiniravi-21/DSA/tree/master/0031-next-permutation) |
+| [0066-plus-one](https://github.com/nandhiniravi-21/DSA/tree/master/0066-plus-one) |
 | [0526-beautiful-arrangement](https://github.com/nandhiniravi-21/DSA/tree/master/0526-beautiful-arrangement) |
 | [0773-sliding-puzzle](https://github.com/nandhiniravi-21/DSA/tree/master/0773-sliding-puzzle) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/nandhiniravi-21/DSA/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
@@ -96,6 +97,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/nandhiniravi-21/DSA/tree/master/0066-plus-one) |
 | [0887-super-egg-drop](https://github.com/nandhiniravi-21/DSA/tree/master/0887-super-egg-drop) |
 | [1012-numbers-with-repeated-digits](https://github.com/nandhiniravi-21/DSA/tree/master/1012-numbers-with-repeated-digits) |
 ## Binary Search
