@@ -61,6 +61,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/nandhiniravi-21/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3035-maximum-palindromes-after-operations](https://github.com/nandhiniravi-21/DSA/tree/master/3035-maximum-palindromes-after-operations) |
 | [3267-count-almost-equal-pairs-ii](https://github.com/nandhiniravi-21/DSA/tree/master/3267-count-almost-equal-pairs-ii) |
+| [3446-sort-matrix-by-diagonals](https://github.com/nandhiniravi-21/DSA/tree/master/3446-sort-matrix-by-diagonals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,6 +108,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | ------- |
 | [0773-sliding-puzzle](https://github.com/nandhiniravi-21/DSA/tree/master/0773-sliding-puzzle) |
 | [2679-sum-in-a-matrix](https://github.com/nandhiniravi-21/DSA/tree/master/2679-sum-in-a-matrix) |
+| [3446-sort-matrix-by-diagonals](https://github.com/nandhiniravi-21/DSA/tree/master/3446-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +152,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/nandhiniravi-21/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3035-maximum-palindromes-after-operations](https://github.com/nandhiniravi-21/DSA/tree/master/3035-maximum-palindromes-after-operations) |
 | [3267-count-almost-equal-pairs-ii](https://github.com/nandhiniravi-21/DSA/tree/master/3267-count-almost-equal-pairs-ii) |
+| [3446-sort-matrix-by-diagonals](https://github.com/nandhiniravi-21/DSA/tree/master/3446-sort-matrix-by-diagonals) |
 ## Graph Theory
 |  |
 | ------- |
