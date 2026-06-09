@@ -76,6 +76,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0887-super-egg-drop](https://github.com/nandhiniravi-21/DSA/tree/master/0887-super-egg-drop) |
 | [0975-odd-even-jump](https://github.com/nandhiniravi-21/DSA/tree/master/0975-odd-even-jump) |
 | [1012-numbers-with-repeated-digits](https://github.com/nandhiniravi-21/DSA/tree/master/1012-numbers-with-repeated-digits) |
+| [1025-divisor-game](https://github.com/nandhiniravi-21/DSA/tree/master/1025-divisor-game) |
 | [1027-longest-arithmetic-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/1027-longest-arithmetic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nandhiniravi-21/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -168,6 +169,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0887-super-egg-drop](https://github.com/nandhiniravi-21/DSA/tree/master/0887-super-egg-drop) |
 | [0899-orderly-queue](https://github.com/nandhiniravi-21/DSA/tree/master/0899-orderly-queue) |
 | [1012-numbers-with-repeated-digits](https://github.com/nandhiniravi-21/DSA/tree/master/1012-numbers-with-repeated-digits) |
+| [1025-divisor-game](https://github.com/nandhiniravi-21/DSA/tree/master/1025-divisor-game) |
 | [1363-largest-multiple-of-three](https://github.com/nandhiniravi-21/DSA/tree/master/1363-largest-multiple-of-three) |
 | [2119-a-number-after-a-double-reversal](https://github.com/nandhiniravi-21/DSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/nandhiniravi-21/DSA/tree/master/2235-add-two-integers) |
@@ -232,4 +234,12 @@ This repository contains a curated collection of Data Structures and Algorithms 
 |  |
 | ------- |
 | [3267-count-almost-equal-pairs-ii](https://github.com/nandhiniravi-21/DSA/tree/master/3267-count-almost-equal-pairs-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/nandhiniravi-21/DSA/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/nandhiniravi-21/DSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
