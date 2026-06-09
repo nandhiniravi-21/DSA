@@ -78,6 +78,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [1012-numbers-with-repeated-digits](https://github.com/nandhiniravi-21/DSA/tree/master/1012-numbers-with-repeated-digits) |
 | [1025-divisor-game](https://github.com/nandhiniravi-21/DSA/tree/master/1025-divisor-game) |
 | [1027-longest-arithmetic-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/1027-longest-arithmetic-subsequence) |
+| [1137-n-th-tribonacci-number](https://github.com/nandhiniravi-21/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nandhiniravi-21/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1363-largest-multiple-of-three](https://github.com/nandhiniravi-21/DSA/tree/master/1363-largest-multiple-of-three) |
@@ -105,6 +106,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 |  |
 | ------- |
 | [0773-sliding-puzzle](https://github.com/nandhiniravi-21/DSA/tree/master/0773-sliding-puzzle) |
+| [1137-n-th-tribonacci-number](https://github.com/nandhiniravi-21/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -171,6 +173,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0899-orderly-queue](https://github.com/nandhiniravi-21/DSA/tree/master/0899-orderly-queue) |
 | [1012-numbers-with-repeated-digits](https://github.com/nandhiniravi-21/DSA/tree/master/1012-numbers-with-repeated-digits) |
 | [1025-divisor-game](https://github.com/nandhiniravi-21/DSA/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/nandhiniravi-21/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1363-largest-multiple-of-three](https://github.com/nandhiniravi-21/DSA/tree/master/1363-largest-multiple-of-three) |
 | [1688-count-of-matches-in-tournament](https://github.com/nandhiniravi-21/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [2119-a-number-after-a-double-reversal](https://github.com/nandhiniravi-21/DSA/tree/master/2119-a-number-after-a-double-reversal) |
