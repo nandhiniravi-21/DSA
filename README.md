@@ -165,6 +165,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/nandhiniravi-21/DSA/tree/master/0066-plus-one) |
+| [0292-nim-game](https://github.com/nandhiniravi-21/DSA/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nandhiniravi-21/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0887-super-egg-drop](https://github.com/nandhiniravi-21/DSA/tree/master/0887-super-egg-drop) |
 | [0899-orderly-queue](https://github.com/nandhiniravi-21/DSA/tree/master/0899-orderly-queue) |
@@ -237,9 +238,11 @@ This repository contains a curated collection of Data Structures and Algorithms 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/nandhiniravi-21/DSA/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/nandhiniravi-21/DSA/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/nandhiniravi-21/DSA/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/nandhiniravi-21/DSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
