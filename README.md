@@ -170,6 +170,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/nandhiniravi-21/DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/nandhiniravi-21/DSA/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/nandhiniravi-21/DSA/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/nandhiniravi-21/DSA/tree/master/0292-nim-game) |
