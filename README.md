@@ -91,6 +91,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/nandhiniravi-21/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/nandhiniravi-21/DSA/tree/master/0342-power-of-four) |
 | [0526-beautiful-arrangement](https://github.com/nandhiniravi-21/DSA/tree/master/0526-beautiful-arrangement) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/nandhiniravi-21/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
@@ -170,6 +171,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/nandhiniravi-21/DSA/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/nandhiniravi-21/DSA/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/nandhiniravi-21/DSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/nandhiniravi-21/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nandhiniravi-21/DSA/tree/master/0342-power-of-four) |
@@ -262,6 +264,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/nandhiniravi-21/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nandhiniravi-21/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nandhiniravi-21/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/nandhiniravi-21/DSA/tree/master/0509-fibonacci-number) |
