@@ -91,6 +91,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/nandhiniravi-21/DSA/tree/master/0342-power-of-four) |
 | [0526-beautiful-arrangement](https://github.com/nandhiniravi-21/DSA/tree/master/0526-beautiful-arrangement) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/nandhiniravi-21/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Bitmask
@@ -171,6 +172,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0066-plus-one](https://github.com/nandhiniravi-21/DSA/tree/master/0066-plus-one) |
 | [0292-nim-game](https://github.com/nandhiniravi-21/DSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/nandhiniravi-21/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/nandhiniravi-21/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/nandhiniravi-21/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nandhiniravi-21/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0887-super-egg-drop](https://github.com/nandhiniravi-21/DSA/tree/master/0887-super-egg-drop) |
@@ -261,5 +263,6 @@ This repository contains a curated collection of Data Structures and Algorithms 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/nandhiniravi-21/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/nandhiniravi-21/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/nandhiniravi-21/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
