@@ -186,6 +186,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [1688-count-of-matches-in-tournament](https://github.com/nandhiniravi-21/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [2119-a-number-after-a-double-reversal](https://github.com/nandhiniravi-21/DSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/nandhiniravi-21/DSA/tree/master/2235-add-two-integers) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/nandhiniravi-21/DSA/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/nandhiniravi-21/DSA/tree/master/2651-calculate-delayed-arrival-time) |
 | [2739-total-distance-traveled](https://github.com/nandhiniravi-21/DSA/tree/master/2739-total-distance-traveled) |
 ## Binary Search
@@ -216,6 +217,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/nandhiniravi-21/DSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [2007-find-original-array-from-doubled-array](https://github.com/nandhiniravi-21/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nandhiniravi-21/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/nandhiniravi-21/DSA/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/nandhiniravi-21/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3035-maximum-palindromes-after-operations](https://github.com/nandhiniravi-21/DSA/tree/master/3035-maximum-palindromes-after-operations) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/nandhiniravi-21/DSA/tree/master/3462-maximum-sum-with-at-most-k-elements) |
