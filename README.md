@@ -44,6 +44,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0975-odd-even-jump](https://github.com/nandhiniravi-21/DSA/tree/master/0975-odd-even-jump) |
 | [1027-longest-arithmetic-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/1027-longest-arithmetic-subsequence) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nandhiniravi-21/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nandhiniravi-21/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1363-largest-multiple-of-three](https://github.com/nandhiniravi-21/DSA/tree/master/1363-largest-multiple-of-three) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/nandhiniravi-21/DSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
@@ -183,6 +184,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [1012-numbers-with-repeated-digits](https://github.com/nandhiniravi-21/DSA/tree/master/1012-numbers-with-repeated-digits) |
 | [1025-divisor-game](https://github.com/nandhiniravi-21/DSA/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/nandhiniravi-21/DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nandhiniravi-21/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1363-largest-multiple-of-three](https://github.com/nandhiniravi-21/DSA/tree/master/1363-largest-multiple-of-three) |
 | [1688-count-of-matches-in-tournament](https://github.com/nandhiniravi-21/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [2119-a-number-after-a-double-reversal](https://github.com/nandhiniravi-21/DSA/tree/master/2119-a-number-after-a-double-reversal) |
@@ -212,6 +214,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 ## Greedy
 |  |
 | ------- |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nandhiniravi-21/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nandhiniravi-21/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1363-largest-multiple-of-three](https://github.com/nandhiniravi-21/DSA/tree/master/1363-largest-multiple-of-three) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nandhiniravi-21/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
