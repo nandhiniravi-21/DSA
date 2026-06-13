@@ -55,6 +55,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/nandhiniravi-21/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/nandhiniravi-21/DSA/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nandhiniravi-21/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nandhiniravi-21/DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2465-number-of-distinct-averages](https://github.com/nandhiniravi-21/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/nandhiniravi-21/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2679-sum-in-a-matrix](https://github.com/nandhiniravi-21/DSA/tree/master/2679-sum-in-a-matrix) |
@@ -189,6 +190,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [1688-count-of-matches-in-tournament](https://github.com/nandhiniravi-21/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [2119-a-number-after-a-double-reversal](https://github.com/nandhiniravi-21/DSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/nandhiniravi-21/DSA/tree/master/2235-add-two-integers) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nandhiniravi-21/DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/nandhiniravi-21/DSA/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/nandhiniravi-21/DSA/tree/master/2651-calculate-delayed-arrival-time) |
 | [2739-total-distance-traveled](https://github.com/nandhiniravi-21/DSA/tree/master/2739-total-distance-traveled) |
