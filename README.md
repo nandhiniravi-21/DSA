@@ -21,6 +21,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0032-longest-valid-parentheses](https://github.com/nandhiniravi-21/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/nandhiniravi-21/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nandhiniravi-21/DSA/tree/master/0344-reverse-string) |
+| [0709-to-lower-case](https://github.com/nandhiniravi-21/DSA/tree/master/0709-to-lower-case) |
 | [0720-longest-word-in-dictionary](https://github.com/nandhiniravi-21/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0899-orderly-queue](https://github.com/nandhiniravi-21/DSA/tree/master/0899-orderly-queue) |
 | [1143-longest-common-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/1143-longest-common-subsequence) |
