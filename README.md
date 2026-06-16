@@ -19,6 +19,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nandhiniravi-21/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nandhiniravi-21/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/nandhiniravi-21/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nandhiniravi-21/DSA/tree/master/0344-reverse-string) |
 | [0720-longest-word-in-dictionary](https://github.com/nandhiniravi-21/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0899-orderly-queue](https://github.com/nandhiniravi-21/DSA/tree/master/0899-orderly-queue) |
@@ -126,6 +127,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/nandhiniravi-21/DSA/tree/master/0242-valid-anagram) |
 | [0720-longest-word-in-dictionary](https://github.com/nandhiniravi-21/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0823-binary-trees-with-factors](https://github.com/nandhiniravi-21/DSA/tree/master/0823-binary-trees-with-factors) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/0873-length-of-longest-fibonacci-subsequence) |
@@ -142,6 +144,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/nandhiniravi-21/DSA/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nandhiniravi-21/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/nandhiniravi-21/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0823-binary-trees-with-factors](https://github.com/nandhiniravi-21/DSA/tree/master/0823-binary-trees-with-factors) |
