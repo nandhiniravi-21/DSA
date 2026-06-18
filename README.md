@@ -208,6 +208,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [2600-k-items-with-the-maximum-sum](https://github.com/nandhiniravi-21/DSA/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/nandhiniravi-21/DSA/tree/master/2651-calculate-delayed-arrival-time) |
 | [2739-total-distance-traveled](https://github.com/nandhiniravi-21/DSA/tree/master/2739-total-distance-traveled) |
+| [2769-find-the-maximum-achievable-number](https://github.com/nandhiniravi-21/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 ## Binary Search
 |  |
 | ------- |
