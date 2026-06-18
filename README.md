@@ -199,6 +199,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [1688-count-of-matches-in-tournament](https://github.com/nandhiniravi-21/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [2119-a-number-after-a-double-reversal](https://github.com/nandhiniravi-21/DSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/nandhiniravi-21/DSA/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/nandhiniravi-21/DSA/tree/master/2413-smallest-even-multiple) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nandhiniravi-21/DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/nandhiniravi-21/DSA/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/nandhiniravi-21/DSA/tree/master/2651-calculate-delayed-arrival-time) |
@@ -286,4 +287,8 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0326-power-of-three](https://github.com/nandhiniravi-21/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nandhiniravi-21/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/nandhiniravi-21/DSA/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/nandhiniravi-21/DSA/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
