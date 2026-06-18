@@ -201,6 +201,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [2235-add-two-integers](https://github.com/nandhiniravi-21/DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/nandhiniravi-21/DSA/tree/master/2413-smallest-even-multiple) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nandhiniravi-21/DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2485-find-the-pivot-integer](https://github.com/nandhiniravi-21/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/nandhiniravi-21/DSA/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/nandhiniravi-21/DSA/tree/master/2651-calculate-delayed-arrival-time) |
 | [2739-total-distance-traveled](https://github.com/nandhiniravi-21/DSA/tree/master/2739-total-distance-traveled) |
@@ -242,6 +243,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/nandhiniravi-21/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/nandhiniravi-21/DSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [2485-find-the-pivot-integer](https://github.com/nandhiniravi-21/DSA/tree/master/2485-find-the-pivot-integer) |
 ## Counting
 |  |
 | ------- |
