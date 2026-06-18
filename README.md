@@ -64,6 +64,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [2333-minimum-sum-of-squared-difference](https://github.com/nandhiniravi-21/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nandhiniravi-21/DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2465-number-of-distinct-averages](https://github.com/nandhiniravi-21/DSA/tree/master/2465-number-of-distinct-averages) |
+| [2549-count-distinct-numbers-on-board](https://github.com/nandhiniravi-21/DSA/tree/master/2549-count-distinct-numbers-on-board) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/nandhiniravi-21/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2679-sum-in-a-matrix](https://github.com/nandhiniravi-21/DSA/tree/master/2679-sum-in-a-matrix) |
 | [2740-find-the-value-of-the-partition](https://github.com/nandhiniravi-21/DSA/tree/master/2740-find-the-value-of-the-partition) |
@@ -141,6 +142,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [2007-find-original-array-from-doubled-array](https://github.com/nandhiniravi-21/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/nandhiniravi-21/DSA/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2465-number-of-distinct-averages](https://github.com/nandhiniravi-21/DSA/tree/master/2465-number-of-distinct-averages) |
+| [2549-count-distinct-numbers-on-board](https://github.com/nandhiniravi-21/DSA/tree/master/2549-count-distinct-numbers-on-board) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/nandhiniravi-21/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3035-maximum-palindromes-after-operations](https://github.com/nandhiniravi-21/DSA/tree/master/3035-maximum-palindromes-after-operations) |
 | [3267-count-almost-equal-pairs-ii](https://github.com/nandhiniravi-21/DSA/tree/master/3267-count-almost-equal-pairs-ii) |
@@ -202,6 +204,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [2413-smallest-even-multiple](https://github.com/nandhiniravi-21/DSA/tree/master/2413-smallest-even-multiple) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nandhiniravi-21/DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2485-find-the-pivot-integer](https://github.com/nandhiniravi-21/DSA/tree/master/2485-find-the-pivot-integer) |
+| [2549-count-distinct-numbers-on-board](https://github.com/nandhiniravi-21/DSA/tree/master/2549-count-distinct-numbers-on-board) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/nandhiniravi-21/DSA/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/nandhiniravi-21/DSA/tree/master/2651-calculate-delayed-arrival-time) |
 | [2739-total-distance-traveled](https://github.com/nandhiniravi-21/DSA/tree/master/2739-total-distance-traveled) |
@@ -265,6 +268,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/nandhiniravi-21/DSA/tree/master/1688-count-of-matches-in-tournament) |
+| [2549-count-distinct-numbers-on-board](https://github.com/nandhiniravi-21/DSA/tree/master/2549-count-distinct-numbers-on-board) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/nandhiniravi-21/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2679-sum-in-a-matrix](https://github.com/nandhiniravi-21/DSA/tree/master/2679-sum-in-a-matrix) |
 | [2739-total-distance-traveled](https://github.com/nandhiniravi-21/DSA/tree/master/2739-total-distance-traveled) |
