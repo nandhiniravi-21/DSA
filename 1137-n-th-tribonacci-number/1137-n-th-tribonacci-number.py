@@ -6,12 +6,8 @@ class Solution:
         if n == 1 or n == 2:
             return 1
         
-        # Initialize the first three terms
-        t0, t1, t2 = 0, 1, 1
-        
-        # Iteratively update terms up to n
-        for _ in range(3, n + 1):
-            t_next = t0 + t1 + t2
-            t0, t1, t2 = t1, t2, t_next
-            
-        return t2
+       
+        a,b,c=0,1,1
+        for _ in range(3,n+1):
+            a,b,c=b,c,a+b+c
+        return c
