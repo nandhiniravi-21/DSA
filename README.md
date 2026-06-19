@@ -20,6 +20,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nandhiniravi-21/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nandhiniravi-21/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0171-excel-sheet-column-number](https://github.com/nandhiniravi-21/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/nandhiniravi-21/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nandhiniravi-21/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nandhiniravi-21/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -185,6 +186,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | ------- |
 | [0009-palindrome-number](https://github.com/nandhiniravi-21/DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/nandhiniravi-21/DSA/tree/master/0066-plus-one) |
+| [0171-excel-sheet-column-number](https://github.com/nandhiniravi-21/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/nandhiniravi-21/DSA/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/nandhiniravi-21/DSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/nandhiniravi-21/DSA/tree/master/0326-power-of-three) |
