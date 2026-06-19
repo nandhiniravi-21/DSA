@@ -12,6 +12,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nandhiniravi-21/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/nandhiniravi-21/DSA/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/nandhiniravi-21/DSA/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/nandhiniravi-21/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nandhiniravi-21/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [2465-number-of-distinct-averages](https://github.com/nandhiniravi-21/DSA/tree/master/2465-number-of-distinct-averages) |
@@ -43,6 +44,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | ------- |
 | [0031-next-permutation](https://github.com/nandhiniravi-21/DSA/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/nandhiniravi-21/DSA/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/nandhiniravi-21/DSA/tree/master/0075-sort-colors) |
 | [0526-beautiful-arrangement](https://github.com/nandhiniravi-21/DSA/tree/master/0526-beautiful-arrangement) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nandhiniravi-21/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/nandhiniravi-21/DSA/tree/master/0720-longest-word-in-dictionary) |
@@ -153,6 +155,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nandhiniravi-21/DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/nandhiniravi-21/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/nandhiniravi-21/DSA/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nandhiniravi-21/DSA/tree/master/0628-maximum-product-of-three-numbers) |
