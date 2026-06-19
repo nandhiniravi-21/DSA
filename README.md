@@ -24,6 +24,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0242-valid-anagram](https://github.com/nandhiniravi-21/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nandhiniravi-21/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nandhiniravi-21/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/nandhiniravi-21/DSA/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/nandhiniravi-21/DSA/tree/master/0709-to-lower-case) |
 | [0720-longest-word-in-dictionary](https://github.com/nandhiniravi-21/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0899-orderly-queue](https://github.com/nandhiniravi-21/DSA/tree/master/0899-orderly-queue) |
@@ -104,6 +105,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | ------- |
 | [0231-power-of-two](https://github.com/nandhiniravi-21/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/nandhiniravi-21/DSA/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/nandhiniravi-21/DSA/tree/master/0389-find-the-difference) |
 | [0526-beautiful-arrangement](https://github.com/nandhiniravi-21/DSA/tree/master/0526-beautiful-arrangement) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/nandhiniravi-21/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Bitmask
@@ -133,6 +135,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/nandhiniravi-21/DSA/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/nandhiniravi-21/DSA/tree/master/0389-find-the-difference) |
 | [0720-longest-word-in-dictionary](https://github.com/nandhiniravi-21/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0823-binary-trees-with-factors](https://github.com/nandhiniravi-21/DSA/tree/master/0823-binary-trees-with-factors) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/0873-length-of-longest-fibonacci-subsequence) |
@@ -151,6 +154,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/nandhiniravi-21/DSA/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/nandhiniravi-21/DSA/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nandhiniravi-21/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/nandhiniravi-21/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0823-binary-trees-with-factors](https://github.com/nandhiniravi-21/DSA/tree/master/0823-binary-trees-with-factors) |
