@@ -42,6 +42,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nandhiniravi-21/DSA/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/nandhiniravi-21/DSA/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/nandhiniravi-21/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nandhiniravi-21/DSA/tree/master/0075-sort-colors) |
@@ -136,6 +137,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nandhiniravi-21/DSA/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/nandhiniravi-21/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/nandhiniravi-21/DSA/tree/master/0389-find-the-difference) |
 | [0720-longest-word-in-dictionary](https://github.com/nandhiniravi-21/DSA/tree/master/0720-longest-word-in-dictionary) |
