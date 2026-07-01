@@ -28,6 +28,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0344-reverse-string](https://github.com/nandhiniravi-21/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nandhiniravi-21/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/nandhiniravi-21/DSA/tree/master/0389-find-the-difference) |
+| [0520-detect-capital](https://github.com/nandhiniravi-21/DSA/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/nandhiniravi-21/DSA/tree/master/0709-to-lower-case) |
 | [0720-longest-word-in-dictionary](https://github.com/nandhiniravi-21/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0899-orderly-queue](https://github.com/nandhiniravi-21/DSA/tree/master/0899-orderly-queue) |
