@@ -199,6 +199,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/nandhiniravi-21/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nandhiniravi-21/DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/nandhiniravi-21/DSA/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/nandhiniravi-21/DSA/tree/master/0171-excel-sheet-column-number) |
