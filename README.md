@@ -14,6 +14,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0031-next-permutation](https://github.com/nandhiniravi-21/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/nandhiniravi-21/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/nandhiniravi-21/DSA/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/nandhiniravi-21/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nandhiniravi-21/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nandhiniravi-21/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [2465-number-of-distinct-averages](https://github.com/nandhiniravi-21/DSA/tree/master/2465-number-of-distinct-averages) |
@@ -50,6 +51,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0066-plus-one](https://github.com/nandhiniravi-21/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nandhiniravi-21/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/nandhiniravi-21/DSA/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/nandhiniravi-21/DSA/tree/master/0283-move-zeroes) |
 | [0526-beautiful-arrangement](https://github.com/nandhiniravi-21/DSA/tree/master/0526-beautiful-arrangement) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nandhiniravi-21/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/nandhiniravi-21/DSA/tree/master/0720-longest-word-in-dictionary) |
