@@ -30,6 +30,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0344-reverse-string](https://github.com/nandhiniravi-21/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nandhiniravi-21/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/nandhiniravi-21/DSA/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/nandhiniravi-21/DSA/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/nandhiniravi-21/DSA/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/nandhiniravi-21/DSA/tree/master/0709-to-lower-case) |
 | [0720-longest-word-in-dictionary](https://github.com/nandhiniravi-21/DSA/tree/master/0720-longest-word-in-dictionary) |
@@ -214,6 +215,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0292-nim-game](https://github.com/nandhiniravi-21/DSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/nandhiniravi-21/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nandhiniravi-21/DSA/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/nandhiniravi-21/DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/nandhiniravi-21/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nandhiniravi-21/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0887-super-egg-drop](https://github.com/nandhiniravi-21/DSA/tree/master/0887-super-egg-drop) |
@@ -296,6 +298,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/nandhiniravi-21/DSA/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/nandhiniravi-21/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [2549-count-distinct-numbers-on-board](https://github.com/nandhiniravi-21/DSA/tree/master/2549-count-distinct-numbers-on-board) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/nandhiniravi-21/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
