@@ -38,6 +38,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [1108-defanging-an-ip-address](https://github.com/nandhiniravi-21/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/1143-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nandhiniravi-21/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1678-goal-parser-interpretation](https://github.com/nandhiniravi-21/DSA/tree/master/1678-goal-parser-interpretation) |
 | [2785-sort-vowels-in-a-string](https://github.com/nandhiniravi-21/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [3035-maximum-palindromes-after-operations](https://github.com/nandhiniravi-21/DSA/tree/master/3035-maximum-palindromes-after-operations) |
 ## Stack
