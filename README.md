@@ -35,6 +35,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0709-to-lower-case](https://github.com/nandhiniravi-21/DSA/tree/master/0709-to-lower-case) |
 | [0720-longest-word-in-dictionary](https://github.com/nandhiniravi-21/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0899-orderly-queue](https://github.com/nandhiniravi-21/DSA/tree/master/0899-orderly-queue) |
+| [1108-defanging-an-ip-address](https://github.com/nandhiniravi-21/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/1143-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nandhiniravi-21/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2785-sort-vowels-in-a-string](https://github.com/nandhiniravi-21/DSA/tree/master/2785-sort-vowels-in-a-string) |
