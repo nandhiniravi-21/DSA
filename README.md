@@ -11,6 +11,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nandhiniravi-21/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/nandhiniravi-21/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/nandhiniravi-21/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/nandhiniravi-21/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/nandhiniravi-21/DSA/tree/master/0125-valid-palindrome) |
@@ -47,6 +48,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nandhiniravi-21/DSA/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/nandhiniravi-21/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/nandhiniravi-21/DSA/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/nandhiniravi-21/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nandhiniravi-21/DSA/tree/master/0075-sort-colors) |
