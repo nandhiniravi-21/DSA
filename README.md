@@ -78,6 +78,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [1630-arithmetic-subarrays](https://github.com/nandhiniravi-21/DSA/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nandhiniravi-21/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/nandhiniravi-21/DSA/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/nandhiniravi-21/DSA/tree/master/1929-concatenation-of-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/nandhiniravi-21/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/nandhiniravi-21/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/nandhiniravi-21/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -307,6 +308,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | ------- |
 | [0412-fizz-buzz](https://github.com/nandhiniravi-21/DSA/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/nandhiniravi-21/DSA/tree/master/1688-count-of-matches-in-tournament) |
+| [1929-concatenation-of-array](https://github.com/nandhiniravi-21/DSA/tree/master/1929-concatenation-of-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/nandhiniravi-21/DSA/tree/master/2549-count-distinct-numbers-on-board) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/nandhiniravi-21/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2679-sum-in-a-matrix](https://github.com/nandhiniravi-21/DSA/tree/master/2679-sum-in-a-matrix) |
