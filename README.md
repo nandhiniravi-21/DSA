@@ -58,6 +58,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0283-move-zeroes](https://github.com/nandhiniravi-21/DSA/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/nandhiniravi-21/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nandhiniravi-21/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/nandhiniravi-21/DSA/tree/master/0485-max-consecutive-ones) |
 | [0526-beautiful-arrangement](https://github.com/nandhiniravi-21/DSA/tree/master/0526-beautiful-arrangement) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nandhiniravi-21/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/nandhiniravi-21/DSA/tree/master/0720-longest-word-in-dictionary) |
