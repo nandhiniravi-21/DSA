@@ -50,6 +50,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0001-two-sum](https://github.com/nandhiniravi-21/DSA/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/nandhiniravi-21/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/nandhiniravi-21/DSA/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/nandhiniravi-21/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/nandhiniravi-21/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nandhiniravi-21/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/nandhiniravi-21/DSA/tree/master/0217-contains-duplicate) |
@@ -238,6 +239,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/nandhiniravi-21/DSA/tree/master/0035-search-insert-position) |
 | [0887-super-egg-drop](https://github.com/nandhiniravi-21/DSA/tree/master/0887-super-egg-drop) |
 | [1027-longest-arithmetic-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/1027-longest-arithmetic-subsequence) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/nandhiniravi-21/DSA/tree/master/2250-count-number-of-rectangles-containing-each-point) |
