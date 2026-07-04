@@ -76,6 +76,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/nandhiniravi-21/DSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1630-arithmetic-subarrays](https://github.com/nandhiniravi-21/DSA/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nandhiniravi-21/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1672-richest-customer-wealth](https://github.com/nandhiniravi-21/DSA/tree/master/1672-richest-customer-wealth) |
 | [2007-find-original-array-from-doubled-array](https://github.com/nandhiniravi-21/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/nandhiniravi-21/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/nandhiniravi-21/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -145,6 +146,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 |  |
 | ------- |
 | [0773-sliding-puzzle](https://github.com/nandhiniravi-21/DSA/tree/master/0773-sliding-puzzle) |
+| [1672-richest-customer-wealth](https://github.com/nandhiniravi-21/DSA/tree/master/1672-richest-customer-wealth) |
 | [2679-sum-in-a-matrix](https://github.com/nandhiniravi-21/DSA/tree/master/2679-sum-in-a-matrix) |
 | [3446-sort-matrix-by-diagonals](https://github.com/nandhiniravi-21/DSA/tree/master/3446-sort-matrix-by-diagonals) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/nandhiniravi-21/DSA/tree/master/3462-maximum-sum-with-at-most-k-elements) |
