@@ -57,6 +57,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0217-contains-duplicate](https://github.com/nandhiniravi-21/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/nandhiniravi-21/DSA/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/nandhiniravi-21/DSA/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nandhiniravi-21/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0526-beautiful-arrangement](https://github.com/nandhiniravi-21/DSA/tree/master/0526-beautiful-arrangement) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nandhiniravi-21/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/nandhiniravi-21/DSA/tree/master/0720-longest-word-in-dictionary) |
@@ -152,6 +153,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0217-contains-duplicate](https://github.com/nandhiniravi-21/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nandhiniravi-21/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/nandhiniravi-21/DSA/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nandhiniravi-21/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/nandhiniravi-21/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0823-binary-trees-with-factors](https://github.com/nandhiniravi-21/DSA/tree/master/0823-binary-trees-with-factors) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/0873-length-of-longest-fibonacci-subsequence) |
