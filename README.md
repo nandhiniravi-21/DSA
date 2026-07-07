@@ -73,6 +73,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nandhiniravi-21/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nandhiniravi-21/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1363-largest-multiple-of-three](https://github.com/nandhiniravi-21/DSA/tree/master/1363-largest-multiple-of-three) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nandhiniravi-21/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/nandhiniravi-21/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/nandhiniravi-21/DSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1630-arithmetic-subarrays](https://github.com/nandhiniravi-21/DSA/tree/master/1630-arithmetic-subarrays) |
@@ -190,6 +191,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0975-odd-even-jump](https://github.com/nandhiniravi-21/DSA/tree/master/0975-odd-even-jump) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nandhiniravi-21/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1363-largest-multiple-of-three](https://github.com/nandhiniravi-21/DSA/tree/master/1363-largest-multiple-of-three) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nandhiniravi-21/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nandhiniravi-21/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/nandhiniravi-21/DSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1630-arithmetic-subarrays](https://github.com/nandhiniravi-21/DSA/tree/master/1630-arithmetic-subarrays) |
@@ -300,6 +302,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nandhiniravi-21/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nandhiniravi-21/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/nandhiniravi-21/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2679-sum-in-a-matrix](https://github.com/nandhiniravi-21/DSA/tree/master/2679-sum-in-a-matrix) |
