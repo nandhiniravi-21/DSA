@@ -227,6 +227,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | [0292-nim-game](https://github.com/nandhiniravi-21/DSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/nandhiniravi-21/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nandhiniravi-21/DSA/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/nandhiniravi-21/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/nandhiniravi-21/DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/nandhiniravi-21/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nandhiniravi-21/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -254,6 +255,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/nandhiniravi-21/DSA/tree/master/0035-search-insert-position) |
+| [0367-valid-perfect-square](https://github.com/nandhiniravi-21/DSA/tree/master/0367-valid-perfect-square) |
 | [0887-super-egg-drop](https://github.com/nandhiniravi-21/DSA/tree/master/0887-super-egg-drop) |
 | [1027-longest-arithmetic-subsequence](https://github.com/nandhiniravi-21/DSA/tree/master/1027-longest-arithmetic-subsequence) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/nandhiniravi-21/DSA/tree/master/2250-count-number-of-rectangles-containing-each-point) |
