@@ -125,6 +125,7 @@ This repository contains a curated collection of Data Structures and Algorithms 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/nandhiniravi-21/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/nandhiniravi-21/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/nandhiniravi-21/DSA/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/nandhiniravi-21/DSA/tree/master/0389-find-the-difference) |
@@ -348,4 +349,8 @@ This repository contains a curated collection of Data Structures and Algorithms 
 | ------- |
 | [0258-add-digits](https://github.com/nandhiniravi-21/DSA/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/nandhiniravi-21/DSA/tree/master/2413-smallest-even-multiple) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/nandhiniravi-21/DSA/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
